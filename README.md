@@ -1,6 +1,8 @@
 # InternetCafe-otomasyonu
 CRUD
 C# dili ile yazılan içinde CRUD işlemi yapılan bir otomasyondur.
+
+
 ![login](https://user-images.githubusercontent.com/109025120/218332950-9f744a59-6f64-4887-8c0a-285c76d9cdc3.png)
 
 
